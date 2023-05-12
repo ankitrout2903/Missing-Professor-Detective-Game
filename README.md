@@ -18,11 +18,12 @@
 **Soft Skills Assessment**":
 To assess the soft skills mentioned, specific methods are used for each clue within the game:
 
-Problem Solving: Players encounter challenging puzzles, and their approach, analytical thinking, and logical reasoning abilities are observed.
-Memory and Recall: Complex images are presented, and later, players are tested on their ability to remember and accurately recall specific details from the image.
-Visual Spatial Reasoning: Players engage with visual representations that require understanding and manipulation of spatial relationships.
-Critical Thinking: Players analyze complex scenarios or situations, evaluating information objectively, considering different perspectives, and making reasoned judgments.
-Analytical Thinking: Players decipher clues, make connections, and apply analytical thinking to deduce the correct solution.
+1.	Problem Solving: Players encounter challenging puzzles, and their approach, analytical thinking, and logical reasoning abilities are observed.
+2.	Memory and Recall: Complex images are presented, and later, players are tested on their ability to remember and accurately recall specific details from the image.
+3.	Visual Spatial Reasoning: Players engage with visual representations that require understanding and manipulation of spatial relationships.
+4.	Critical Thinking: Players analyze complex scenarios or situations, evaluating information objectively, considering different perspectives, and making reasoned judgments.
+5.	Analytical Thinking: Players decipher clues, make connections, and apply analytical thinking to deduce the correct solution.
+
 By utilizing these methods, the game assesses players' soft skills, providing valuable insights into their abilities and behaviors.
 
 **Installation**:
