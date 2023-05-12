@@ -15,6 +15,16 @@
 - Leaderboard: users can track their progress and compare their scores with other players.
 - Admin dashboard: administrators have access to manage user accounts, game settings, and view game analytics.
 
+**Soft Skills Assessment**":
+To assess the soft skills mentioned, specific methods are used for each clue within the game:
+
+Problem Solving: Players encounter challenging puzzles, and their approach, analytical thinking, and logical reasoning abilities are observed.
+Memory and Recall: Complex images are presented, and later, players are tested on their ability to remember and accurately recall specific details from the image.
+Visual Spatial Reasoning: Players engage with visual representations that require understanding and manipulation of spatial relationships.
+Critical Thinking: Players analyze complex scenarios or situations, evaluating information objectively, considering different perspectives, and making reasoned judgments.
+Analytical Thinking: Players decipher clues, make connections, and apply analytical thinking to deduce the correct solution.
+By utilizing these methods, the game assesses players' soft skills, providing valuable insights into their abilities and behaviors.
+
 **Installation**:
 1. Clone this repository to your local machine.
 2. Install Node.js and MongoDB on your machine.
