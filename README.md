@@ -15,7 +15,7 @@
 - Leaderboard: users can track their progress and compare their scores with other players.
 - Admin dashboard: administrators have access to manage user accounts, game settings, and view game analytics.
 
-**Soft Skills Assessment**":
+**Soft Skills Assessment**:
 To assess the soft skills mentioned, specific methods are used for each clue within the game:
 
 1.	Problem Solving: Players encounter challenging puzzles, and their approach, analytical thinking, and logical reasoning abilities are observed.
@@ -25,6 +25,83 @@ To assess the soft skills mentioned, specific methods are used for each clue wit
 5.	Analytical Thinking: Players decipher clues, make connections, and apply analytical thinking to deduce the correct solution.
 
 By utilizing these methods, the game assesses players' soft skills, providing valuable insights into their abilities and behaviors.
+
+**Flow Chart of the game**":
+
+             +-------------------+
+             |   Pregame Page    |
+             +---------+---------+
+                       |
+                       |
+                       v
+             +-------------------+
+      +------|      Clue 1       |
+      |      +---------+---------+
+      |                |
+      |                |
+      |                v
+      |       +-------------------+
+      +-------|     Solve Puzzle   |
+              +---------+---------+
+                        |
+                        |
+                        v
+              +-------------------+
+       +------|      Clue 2       |
+       |      +---------+---------+
+       |                |
+       |                |
+       |                v
+       |        +-------------------+
+       +--------|  Confusing Image  |
+                +---------+---------+
+                          |
+                          |
+          +---------------+---------------+
+          |                               |
+          |          Correct Answer       |
+          |                               |
+          v                               v
++-------------------+           +-------------------+
+|      Clue 3       |           |     Dead End 1    |
++-------------------+           +-------------------+
+          |                               |
+          |                               |
+          v                               |
++-------------------+                     |
+| Descriptive Image |                     |
++-------------------+                     |
+          |                               |
+          |                               |
+          v                               |
++-------------------+                     |
+|      Clue 4       |                     |
++-------------------+                     |
+          |                               |
+          |                               |
+          v                               |
++-------------------+                     |
+|  Combination Lock |                     |
++-------------------+                     |
+          |                               |
+          |                               |
+          v                               |
++-------------------+                     |
+|      Clue 5       |                     |
++-------------------+                     |
+          |                               |
+          |                               |
+          v                               |
++-------------------+           +-------------------+
+|   Laptop Lock     |           |     Dead End 2    |
++-------------------+           +-------------------+
+          |                               |
+          |                               |
+          v                               v
++-------------------+           +-------------------+
+|    Game Complete  |           |    Game Over      |
++-------------------+           +-------------------+
+
 
 **Installation**:
 1. Clone this repository to your local machine.
