@@ -62,7 +62,10 @@ By utilizing these methods, the game assesses players' soft skills, providing va
          |          Correct Answer       |
          |                               |
          v                               v
-+-------------------+           +-------------------+
+ part 2 
+ 
+ 
+ +-------------------+           +-------------------+
 |      Clue 3       |           |     Dead End 1    |
 +-------------------+           +-------------------+
          |                               |
