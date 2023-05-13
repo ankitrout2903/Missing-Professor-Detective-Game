@@ -104,7 +104,7 @@ By utilizing these methods, the game assesses players' soft skills, providing va
 
 **Formula to Evvaluate Score In Leaderboard**:
 
-score: user.totalTime = 90+((averageTotalTime)/(usertotalTime - averageTotalTime))*10
+score = 90 + ((averageTotalTime)/(usertotalTime - averageTotalTime))*10
 
 **Installation**:
 1. Clone this repository to your local machine.
