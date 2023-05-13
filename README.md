@@ -102,6 +102,9 @@ By utilizing these methods, the game assesses players' soft skills, providing va
 |    Game Complete  |           |    Game Over      |
 +-------------------+           +-------------------+
 
+**Formula to Evvaluate Score In Leaderboard**:
+
+score: user.totalTime = 90+((averageTotalTime)/(usertotalTime - averageTotalTime))*10
 
 **Installation**:
 1. Clone this repository to your local machine.
