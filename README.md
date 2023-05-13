@@ -102,7 +102,7 @@ By utilizing these methods, the game assesses players' soft skills, providing va
 |    Game Complete  |           |    Game Over      |
 +-------------------+           +-------------------+
 
-**Formula to Evvaluate Score In Leaderboard**:
+**Formula to Evaluate Score In Leaderboard**:
 
 score = 90 + ((averageTotalTime)/(usertotalTime - averageTotalTime))*10
 
