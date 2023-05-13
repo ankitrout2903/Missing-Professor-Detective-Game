@@ -28,7 +28,7 @@ By utilizing these methods, the game assesses players' soft skills, providing va
 
 **Flow Chart of the game**":
 
-  +-------------------+
+             +-------------------+
              |   Pregame Page    |
              +---------+---------+
                        |
