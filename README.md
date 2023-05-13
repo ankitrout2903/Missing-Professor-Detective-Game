@@ -58,8 +58,11 @@ By utilizing these methods, the game assesses players' soft skills, providing va
                           |
                           |
           +---------------+---------------+
-          |                               |
           |          Correct Answer       |
+          |         / Wrong Answer        |
+          |                               |
+          +-------------------------------+
+          |                               |
           |                               |
           v                               v
 +-------------------+           +-------------------+
@@ -92,11 +95,11 @@ By utilizing these methods, the game assesses players' soft skills, providing va
           |                               |
           |                               |
           v                               |
-+-------------------+           +-------------------+
-|   Laptop Lock     |           |     Dead End 2    |
-+-------------------+           +-------------------+
++-------------------+    ❌    +-------------------+
+|   Laptop Lock     |--------->|     Dead End 2    |
++-------------------+          +-------------------+
           |                               |
-          |                               |
+          | ✔️                              |
           v                               v
 +-------------------+           +-------------------+
 |    Game Complete  |           |    Game Over      |
