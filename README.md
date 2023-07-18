@@ -2,6 +2,9 @@
 
 **Description**: This is a MERN stack-based web application designed to improve users' soft skills, such as problem-solving, critical thinking, and communication. The game revolves around the mysterious disappearance of a prominent professor. Players must employ their detective skills to solve a series of clues and puzzles, unveiling the truth behind the missing professor.
 
+**Video Trial Link**
+https://www.loom.com/share/6c3ea01cf92b42848a28074d854addea?sid=c6b66928-817f-4a8e-a131-9ad4e0951dc1
+
 **Technologies used**:
 - MongoDB: for data storage and retrieval
 - Express: for server-side routing and middleware
