@@ -5,6 +5,9 @@
 **Video Trial Link**
 - https://www.loom.com/share/6c3ea01cf92b42848a28074d854addea?sid=c6b66928-817f-4a8e-a131-9ad4e0951dc1
 
+- **admin mail** :: demo@mail.com
+- **password** :: thisisapassword
+
 **Technologies used**:
 - MongoDB: for data storage and retrieval
 - Express: for server-side routing and middleware
